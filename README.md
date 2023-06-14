@@ -38,7 +38,7 @@ hi, i'm [Malik dinar](https://.../), a passionate self-taught full stack web dev
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 -->
 
-  <img align="right" alt="GIF" src="https://github.com/malik/malik/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/malik-dinar/malik-dinar/blob/main/code.gif" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:malikdinaras@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
