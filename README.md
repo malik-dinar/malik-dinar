@@ -29,9 +29,6 @@ Here are some ideas to get you started:
 </a>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=malikdinar.malikdinar) -->
-
-<br />
-
 hi, i'm [Malik dinar](https://.../), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 <!--
