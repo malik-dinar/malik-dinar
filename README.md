@@ -48,7 +48,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <a><img src="https://skillicons.dev/icons?i=aws,firebase,git,react,redux" />
 <a/>
  <br/>
-<a><img src="https://skillicons.dev/icons?i=postman,netlify,figma" />
+<a><img src="https://skillicons.dev/icons?i=postman,netlify,figma,nginx" />
 <a/>
 
     
