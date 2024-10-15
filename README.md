@@ -30,18 +30,17 @@ Here are some ideas to get you started:
 </a>  -->
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=malikdinar.malikdinar) -->
-I'm Malik Dinar, a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+I'm Malik Dinar, a passionate, self-taught full-stack web developer and freelance software engineer from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 <!--
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 -->
 
   <img align="right" alt="GIF" src="https://github.com/malik-dinar/malik-dinar/blob/main/code.gif" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:malikdinaras@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything, I am happy to help :)
 
-**languages and tools:**  
+**Languages and tools:**  
 
 <a><img src="https://skillicons.dev/icons?i=nodejs,mongodb,js,ts,express" />
 <a/> <br/>
